@@ -1,0 +1,44 @@
+body {
+   background-color: rgb(236, 75, 169);
+}
+.form {
+    border-block: ;
+    text-align: center;
+    background-color: white;
+    width: 40%;
+    padding-top: 70px;
+    
+    
+    
+}
+.form1 {
+    justify-content: center;
+    display: flex;
+    height: 500px;
+    padding: 3px;
+    
+}
+.login1 {
+    font-family: sans-serif;
+}
+.button {
+   padding:10px 90px ;
+   text-align: center;
+   border: none;
+}
+.button:hover{
+   background-color: mediumorchid;
+}
+input{
+    margin-top: 3%;
+    width: 60%;
+    height: 30px;
+}
+h4{
+    margin-right: 210px;
+    color: tomato;
+
+}
+input{
+    width: 60%%;
+}
